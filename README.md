@@ -3,3 +3,4 @@ This is a simple python script that will generate LaTex code for a table that re
 
 # Usage:
 Simply run the script from a command line with the argument that represents the key you wish to generate a table for.
+Outputs the LaTeX to standard out.
