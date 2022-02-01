@@ -23,7 +23,7 @@ def gen(n):
     print("\\end{center}")
 
 if __name__ == "__main__":
-    if len(sys.argv) > 2:
+    if len(sys.argv) > 2 or len(sys.argv) <= 1:
         print("Usage: ./gen.py n")
         print("Where n is the caesar cipher key")
         exit()
