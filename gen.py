@@ -2,7 +2,6 @@
 
 import sys
 
-tag = "\item"
 sep = "&"
 line = "\hline"
 end = "\\\\"
