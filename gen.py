@@ -9,7 +9,7 @@ end = "\\\\"
 def gen(n):
     print("\\begin{center}")
     print("\\begin{tabular}{| c | c |}")
-    print("\\hline Plaintext & Ciphertext \\hline", end = " ")
+    print("\\hline Plaintext & Ciphertext \\\\ \\hline", end = " ")
     for i in range (65, 65+26):
         alpha = chr(i)
         if i + n <= 90:
