@@ -1,6 +1,6 @@
-# caesar-cipher-table
-This is a simple python script that will generate LaTex code for a table that represents a visual depiction of a Caesar Cipher.
+# Description
+This is a repo of any small scripts and such that I create while using my computer day to day.
 
-# Usage:
-Simply run the script from a command line with the argument that represents the key you wish to generate a table for.
-Outputs the LaTeX to standard out.
+
+# Listing
+- LaTeX caesar cipher table generator - generate LaTeX code for a table.
